@@ -1,35 +1,35 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="SumVfeZQqZYSK4oFQjd8">
-    <mxGraphModel dx="1630" dy="1046" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200" pageHeight="265" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="1">
+    <mxGraphModel dx="1916" dy="900" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="200" pageHeight="265" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vh6OIM2AOkglogoUDNUM-13" edge="1" parent="1" source="vh6OIM2AOkglogoUDNUM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#B46504,#FF8000);fontColor=default;defaultLabelBackgroundColor=page;strokeWidth=5;labelBackgroundColor=none;fillColor=#fad7ac;" target="vh6OIM2AOkglogoUDNUM-3">
+        <mxCell id="bgvWOpCVMpFxZQq-xktL-1" edge="1" parent="1" source="vh6OIM2AOkglogoUDNUM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;strokeColor=light-dark(#000000,#FF9933);strokeWidth=4;" target="vh6OIM2AOkglogoUDNUM-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vh6OIM2AOkglogoUDNUM-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;fillColor=none;fontSize=17;fontStyle=1;fontColor=light-dark(#FFFFFF,#000000);strokeColor=light-dark(#000000,#FF8000);" value="Abordagem Revisional e Comparativa de Dados Contemporâneos" vertex="1">
           <mxGeometry height="80" width="287" x="257.5" y="76" as="geometry" />
         </mxCell>
-        <mxCell id="vh6OIM2AOkglogoUDNUM-14" edge="1" parent="1" source="vh6OIM2AOkglogoUDNUM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#EEEEEE,#FF8000);fontColor=default;defaultLabelBackgroundColor=page;strokeWidth=5;labelBackgroundColor=none;" target="vh6OIM2AOkglogoUDNUM-6">
+        <mxCell id="bgvWOpCVMpFxZQq-xktL-2" edge="1" parent="1" source="vh6OIM2AOkglogoUDNUM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;strokeColor=light-dark(#000000,#FF8000);strokeWidth=4;" target="vh6OIM2AOkglogoUDNUM-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vh6OIM2AOkglogoUDNUM-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;fillColor=none;fontSize=16;fontStyle=1;strokeColor=light-dark(#000000,#FF9933);fontColor=light-dark(#000000,#000000);" value="Análise Experimental 1: Experimento de Campo Controlado&amp;nbsp;&lt;br&gt;(Bastani et al., 2025) -&amp;gt; ~1.000 alunos de Matemática" vertex="1">
-          <mxGeometry height="80" width="287" x="257.5" y="213" as="geometry" />
+          <mxGeometry height="80" width="287" x="361" y="176" as="geometry" />
         </mxCell>
-        <mxCell id="vh6OIM2AOkglogoUDNUM-15" edge="1" parent="1" source="vh6OIM2AOkglogoUDNUM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#EEEEEE,#FF8000);fontColor=default;defaultLabelBackgroundColor=page;strokeWidth=5;labelBackgroundColor=none;" target="vh6OIM2AOkglogoUDNUM-7">
+        <mxCell id="bgvWOpCVMpFxZQq-xktL-3" edge="1" parent="1" source="vh6OIM2AOkglogoUDNUM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;strokeColor=light-dark(#000000,#FF8000);strokeWidth=4;" target="vh6OIM2AOkglogoUDNUM-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vh6OIM2AOkglogoUDNUM-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;fillColor=light-dark(#B1DDF0,transparent);strokeColor=light-dark(#BAC8D3,#FF8000);fontColor=light-dark(#FFFFFF,#000000);fontSize=15;fontStyle=1" value="Análise Experimental 2: Experimento Randomizado&amp;nbsp;&lt;br&gt;(Fan et al., 2025) -&amp;gt; 117 universitários (Escrita e Autorregulação)" vertex="1">
-          <mxGeometry height="80" width="287" x="257.5" y="349" as="geometry" />
+          <mxGeometry height="80" width="287" x="461" y="269" as="geometry" />
         </mxCell>
-        <mxCell id="vh6OIM2AOkglogoUDNUM-16" edge="1" parent="1" source="vh6OIM2AOkglogoUDNUM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#EEEEEE,#FF8000);fontColor=default;defaultLabelBackgroundColor=page;strokeWidth=5;labelBackgroundColor=none;" target="vh6OIM2AOkglogoUDNUM-9">
+        <mxCell id="bgvWOpCVMpFxZQq-xktL-4" edge="1" parent="1" source="vh6OIM2AOkglogoUDNUM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;strokeColor=light-dark(#000000,#FF8000);strokeWidth=4;" target="vh6OIM2AOkglogoUDNUM-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vh6OIM2AOkglogoUDNUM-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;fillColor=light-dark(#B1DDF0,transparent);strokeColor=light-dark(#BAC8D3,#FF8000);fontColor=light-dark(#FFFFFF,#000000);fontSize=16;fontStyle=1" value="&lt;div&gt;Análise Teórica: Revisão Sistemática&amp;nbsp;&lt;/div&gt;&lt;div&gt;(Zhai et al., 2024) -&amp;gt; Protocolo PRISMA com 14 artigos indexados&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="287" x="257.5" y="485" as="geometry" />
+          <mxGeometry height="80" width="287" x="563" y="364" as="geometry" />
         </mxCell>
         <mxCell id="vh6OIM2AOkglogoUDNUM-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;roundedPerimeter=1;fillColor=light-dark(#B1DDF0,transparent);strokeColor=light-dark(#BAC8D3,#FF8000);fontColor=light-dark(#FFFFFF,#000000);fontStyle=1;fontSize=17;" value="Mapeamento e Síntese dos Impactos: Desempenho Prático, Carga Metacognitiva e Raciocínio Analítico" vertex="1">
-          <mxGeometry height="80" width="287" x="257.5" y="621" as="geometry" />
+          <mxGeometry height="80" width="287" x="662" y="459" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
